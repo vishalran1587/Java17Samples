@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class InstanceOfPatternMatch {
     public static void main(String[] args) {
         Object o = "Hello World!";
